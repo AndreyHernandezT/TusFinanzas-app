@@ -66,7 +66,7 @@ export default {
         justify-content: center;    
         align-items: left;
         text-align: left;
-        background-image: url('~@/assets/fondo.png');
+        background-image: url('~@/assets/Fondo.png');
         background-size:100%;
         min-height: 70vh;
 
